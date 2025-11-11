@@ -1,0 +1,2 @@
+# Safe-Air-Detector-
+Gas leaks can be extremely dangerous, often leading to fire accidents or even explosions if not detected early. To address this problem, our project focuses on developing a simple and affordable MQ2 Gas Detection System using Arduino Uno. The main idea behind the system is to continuously monitor the air for harmful or flammable gases such as LPG, methane, propane, and hydrogen, and alert the user before the situation becomes hazardous.
